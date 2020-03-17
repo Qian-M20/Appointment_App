@@ -1,0 +1,167 @@
+header.appHeader {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height:10vh;
+    float:left;
+    padding-top:0;
+    padding-bottom:0;
+}
+
+form {
+    /* height:90vh; */
+    background-color:white;
+    color:black;
+    /* margin-top:10vh; */
+    display:block;
+    padding:0vw 3vw;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    display:block;
+    width:100%;
+    border:none;
+}
+input:focus {
+    outline: none;
+}
+
+label {
+    margin:2vh;
+    display: block;
+    padding:5px;
+    border-bottom: 1px solid #A9A9A9;
+}
+
+label p {
+    font-size:1.2em;
+    font-family: 'Lato', sans-serif;
+    color: #525456;
+    margin-right: 10px;
+}
+
+select {
+    font-size:1.2em;
+    font-family: 'Lato', sans-serif;
+    color: #525456;
+    margin-right: 10px;
+    border:none;
+}
+
+label input {
+    height:5vh;
+    font-size:1.2em;
+    font-family: 'Lato', sans-serif;
+    color: #010A13;
+    font-weight: bolder;
+}
+
+#saveBtn {
+    width:30vw;
+    background-color: #0F5EAD;
+    color:white;
+    font-size:1.5em;
+    padding:2px;
+    border-radius: 1rem;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    margin-bottom: 2em;
+}
+
+#saveBtn:hover {
+    cursor:pointer;
+    background-color: white;
+    color:#0F5EAD;
+    border:1px solid #0F5EAD;
+}
+
+.buttonGroup {
+    display:flex;
+    justify-content: center;
+}
+
+#exitBtn {
+    width:30vw;
+    color:white;
+    font-size:1.5em;
+    padding:2px;
+    border-radius: 1rem;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    margin-bottom: 2em;
+    background-color:#474545;
+    text-align: center;
+}
+
+
+#exitBtn:hover {
+    cursor:pointer;
+    background-color: white;
+    color:#474545;
+    border:1px solid #474545;
+}
+
+label {
+    display:flex;
+    justify-content: flex-start;
+    /* border-bottom: none; */
+    align-items: center;
+}
+
+
+input {
+    width:100%;
+    margin-left: 2%;
+}
+
+input#desc {
+    width:100%;
+}
+
+#action2 {
+    width:100%;
+    text-align: center;
+}
+
+
+/* radio button */
+#radioGroup {
+    display:flex;
+    justify-content: space-between;
+}
+
+#radioGroup label {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: none;
+}
+
+
+#radioGroup label input {
+    display:block;
+    width:30px;
+    margin-right: 10px;
+}
+
+
+
+/* FOR THE MOBILE VIEW */
+
+@media screen and (max-width:414px){
+    #date {
+        width:100%;
+    }
+
+    #radioGroup {
+        display:flex;
+        flex-direction: column;
+    }
+
+}

@@ -1,0 +1,26 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+Header {
+  position:fixed;
+  width:98vw;
+  height:18vh;
+  top:0;
+  padding-left:1vw;
+  padding-right:1vw;
+  padding-bottom:1vw;
+  padding-top:1vw;
+}
+
+.TimeGrids {
+  margin-top: 18vh;
+  width:100vw;
+  padding-top:2vw;
+}
+
+.appContainer {
+  display:none;
+}
+

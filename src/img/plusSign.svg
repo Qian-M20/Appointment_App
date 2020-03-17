@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201.24 201.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231815;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>plusSign</title>
+  <rect class="cls-1" x="0.5" y="88.03" width="200.24" height="25.17" rx="1.26"/>
+  <rect class="cls-1" x="62.54" y="137.28" width="200.24" height="25.17" rx="1.26" transform="translate(-49.25 263.28) rotate(-90)"/>
+</svg>
