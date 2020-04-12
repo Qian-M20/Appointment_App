@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Appointment_App/static/css/main.c3879253.chunk.css",
+    "main.js": "/Appointment_App/static/js/main.918efa9f.chunk.js",
+    "main.js.map": "/Appointment_App/static/js/main.918efa9f.chunk.js.map",
+    "runtime-main.js": "/Appointment_App/static/js/runtime-main.1aa3fddc.js",
+    "runtime-main.js.map": "/Appointment_App/static/js/runtime-main.1aa3fddc.js.map",
+    "static/js/2.a467846f.chunk.js": "/Appointment_App/static/js/2.a467846f.chunk.js",
+    "static/js/2.a467846f.chunk.js.map": "/Appointment_App/static/js/2.a467846f.chunk.js.map",
+    "index.html": "/Appointment_App/index.html",
+    "precache-manifest.41dce93585dcf2b743111c9b7385afbc.js": "/Appointment_App/precache-manifest.41dce93585dcf2b743111c9b7385afbc.js",
+    "service-worker.js": "/Appointment_App/service-worker.js",
+    "static/css/main.c3879253.chunk.css.map": "/Appointment_App/static/css/main.c3879253.chunk.css.map",
+    "static/js/2.a467846f.chunk.js.LICENSE.txt": "/Appointment_App/static/js/2.a467846f.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/Appointment_App/static/media/calendar.164a2078.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa3fddc.js",
+    "static/js/2.a467846f.chunk.js",
+    "static/css/main.c3879253.chunk.css",
+    "static/js/main.918efa9f.chunk.js"
+  ]
+}
