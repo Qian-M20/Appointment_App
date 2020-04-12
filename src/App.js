@@ -268,7 +268,7 @@ class App extends Component {
 
 
 
- 
+
     this.setState({timeLogs: this.state.timeLogs.map(timeLog => {
       if(timeLog.id === currDay){
         timeLog.state = true

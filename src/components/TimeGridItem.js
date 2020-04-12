@@ -45,7 +45,10 @@ class TimeGridItem extends Component {
 
         // determine the bg color 
         let bgColor; 
-        if(app.action2==="confirmed"){
+        if(app.action2== undefined){
+            bgColor = "#638680"
+        }
+        else if(app.action2==="confirmed"){
             bgColor = "#482637"
         }else if(app.action2==="rescheduled"){
             bgColor ="#5E679E"
